@@ -94,6 +94,28 @@ Capabilities include:
   - Anomaly Detection: Isolation Forest.
   - Prediction: Random Forest models.
 - **Visualization**: Dash framework with Plotly for interactive visuals.
+## outputs:
+  1. Transformed Data using pyspark:
+
+     ![Screenshot 2024-11-20 112252](https://github.com/user-attachments/assets/717494f9-a055-400d-b700-e0cd2dcc7176)
+
+     ![Screenshot 2024-11-20 112005](https://github.com/user-attachments/assets/c162dab0-624a-4f5b-ad13-d1edc1bbba4c)
+
+     ![Screenshot 2024-11-20 112152](https://github.com/user-attachments/assets/2a21d15a-fdcf-4ca6-8b2b-07420db81dc9)
+
+     ![Screenshot 2024-11-20 112231](https://github.com/user-attachments/assets/d2451553-40ee-4a78-8633-01e36890a602)
+    
+2. dashboard 
+
+    ![Screenshot 2024-11-20 112523](https://github.com/user-attachments/assets/38f2258a-a3a2-4c37-8ce0-1dab1672f8a8)
+
+    ![Screenshot 2024-11-20 112454](https://github.com/user-attachments/assets/9b59c778-9d64-41b7-9c3b-60a4857842f3)
+
+
+   ![Screenshot 2024-11-20 112415](https://github.com/user-attachments/assets/acf975b2-12d6-4f7a-b145-4cc4bf75773c)
+   
+
+
 
 ## Future Enhancements
 - Extend the dataset to include real-world scenarios.
